@@ -10,9 +10,12 @@
 
 ---
 
-## Professional Summary
+## Who Am I In A Nutshell
 
-Biomedical engineer with hands-on experience in image and video processing pipelines, embedded systems, and rapid prototyping. Strong C++ developer with a growing interest in algorithmic visual data processing and edge-device optimization. U.S. Army veteran and engineering mentor, currently focused on developing medical imaging solutions while expanding expertise in spatial computing and vision-based AI.
+- I'm a Biomedical engineer who nerds out about the computer/electrical enginnering side of the house when it comes to the biomedical field in general.
+- I typically code in C++, but I am familar with Python and I'm actively learning Bash to make my life a little bit easier.
+- Currently a Research Engineer at UT Southwestern and I'm diving deep into the image processing world since the lab I currently work in does a lot of cancer reserach.
+- I'm also a U.S Army Veteran who was a part of the 1st Cav Division and the 143rd Airbrone Infantry Regiment back in the day :') 
 
 ---
 
@@ -30,7 +33,7 @@ Biomedical engineer with hands-on experience in image and video processing pipel
 
 ---
 
-## Featured Projects
+## My Favorite Projects As Of (7/29/25)
 
 - [**ESP_8266_ADC_Gauge**](https://github.com/Digital1O1/ESP_8266_ADC_Gauge)  
   Custom ADC gauge leveraging ESP8266 for real-time analog data monitoring.
@@ -43,7 +46,7 @@ Biomedical engineer with hands-on experience in image and video processing pipel
 
 ---
 
-## Connect
+## Let's Connect! 
 
 - [LinkedIn: Christopher I. Ta](https://www.linkedin.com/in/christopher-i-ta/)
 
