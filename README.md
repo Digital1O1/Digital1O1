@@ -16,7 +16,7 @@ Biomedical engineer with hands-on experience in image and video processing pipel
 
 ---
 
-## Skills
+## Things that I get excited about 
 
 - **Image & Video Processing**
 - **Medical Imaging Solutions**
@@ -26,7 +26,7 @@ Biomedical engineer with hands-on experience in image and video processing pipel
 - **CAD Modeling (Fusion 360)**
 - **Algorithmic Visual Data Processing**
 - **Edge Device Optimization**
-- **Engineering Mentorship**
+
 
 ---
 
